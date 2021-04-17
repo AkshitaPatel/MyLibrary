@@ -6,3 +6,8 @@ A Web Application that lets you add author, books and novels written by that aut
 
 Node.js
 MongoDB
+
+# Deployment
+
+This application is deployed on heroku.
+https://akshita-library.herokuapp.com/
